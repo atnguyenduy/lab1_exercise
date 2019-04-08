@@ -1,7 +1,7 @@
 # Anh Thu Nguyen
 ## University of Washington 
 ### Junior 
-![Anh Thu Nguyen](~/Info201/lab1_exercise/anhthu.jpg)
+![Anh Thu Nguyen](/Info201/lab1_exercise/anhthu.jpg)
 * Udon
 * Pho 
 * Salad
